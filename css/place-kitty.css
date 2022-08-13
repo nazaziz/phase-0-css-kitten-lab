@@ -8,7 +8,10 @@ write-your-selector-here {
 
 /* Select the image with id of kitty-2 */
 write-your-selector-here {
+
   position: absolute;
+  top: 50px;
+  left: 50px;
   z-index: 2;
   top: 212px;
   left: 369px;
@@ -17,6 +20,8 @@ write-your-selector-here {
 /* Select the image inside the element with an id of basket (using its descendent relationship) */
 write-your-selector-here {
   position: absolute;
+  top: 50px;
+  left: 50px;
   z-index: 5;
   top: 291px;
   left: 319px;
@@ -25,6 +30,8 @@ write-your-selector-here {
 /* Select the image based on it being a sibling that follows immediately after the element with an id of ball (using adjacent sibling selector) */
 write-your-selector-here {
   position: absolute;
+  top: 50px;
+  left: 50px;
   z-index: 4;
   top: 260px;
   left: 455px;
@@ -33,6 +40,8 @@ write-your-selector-here {
 /* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
 write-your-selector-here {
   position: absolute;
+  top: 50px;
+  left: 50px;
   z-index: 3;
   top: 217px;
   left: 223px;
